@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# React-Redux-Weather-App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This a practice demo about query weather inforamtion of US cities in future 5 days.
+
+The techniques used here are React, Redux, React-Redux, HTML, CSS, Webpack, AJAX, etc.
 
 ###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+After git clone and get into the directory, run:
 
 ```
 	> npm install
 	> npm start
 ```
+
+It is better for you apply your own weather API token.
