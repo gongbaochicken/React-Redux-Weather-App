@@ -13,3 +13,6 @@ After git clone and get into the directory, run:
 ```
 
 It is better for you apply your own weather API token.
+
+Screenshot: 
+![demo](http://res.cloudinary.com/dxdsd8err/image/upload/v1486005436/demo_hzzuhq.jpg)
